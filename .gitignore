@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.env
+prediction_history.csv
+__pycache__/
+*.pyc
